@@ -1,0 +1,4 @@
+model_checkpoint_path: "model-78"
+all_model_checkpoint_paths: "model-78"
+all_model_checkpoint_timestamps: 1707678482.8738644
+last_preserved_timestamp: 1707660916.320964

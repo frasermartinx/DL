@@ -1,0 +1,4 @@
+model_checkpoint_path: "model-64"
+all_model_checkpoint_paths: "model-64"
+all_model_checkpoint_timestamps: 1707679133.8151674
+last_preserved_timestamp: 1707662513.9584548
